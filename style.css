@@ -3,9 +3,8 @@ body {
 	background: url(noise.png);
 }
 
-pic {
-	border-radius: 8px;
-	width: 50%;
+img {
+	
 	float: right;
 }
 
