@@ -3,7 +3,7 @@ body {
 	background: url(noise.png);
 }
 
-pic {
+#pic {
 	float: right;
 }
 
