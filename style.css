@@ -2,6 +2,12 @@ body {
 	font: 16px Helvetica, Sans-Serif;
 	background: url(noise.png);
 }
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: center;
+}
 
 img {
 	
